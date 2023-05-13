@@ -27,7 +27,7 @@
           This project will assist users in searching the books quickly with mobile devices and smartphones and can look
           for the necessary books without even touching the racks, as the
           technologies used previously for finding or searching the books arise some problems in searching books.</p>
-        <br><button class="btn btn-dark btn-lg" onclick="window.location.href = 'https:github.com/PenugondaPraneethReddy/Book-Self-Finder'">Project link <i class="fa-solid fa-arrow-up-right-from-square"></i></button>
+        <br><button class="btn btn-dark btn-lg" onclick="window.location.href = 'https://github.com/PenugondaPraneethReddy/Automated-Book-Finder'">Project link <i class="fa-solid fa-arrow-up-right-from-square"></i></button>
       </div>
     </div>
   </div>
